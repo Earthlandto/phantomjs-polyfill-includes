@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Earthlandto/phantomjs-polyfill-includes.git"
+    "url": "git+https://github.com/Neuromobile/phantomjs-polyfill-includes.git"
   },
   "keywords": [
     "polyfill",
@@ -18,7 +18,7 @@
   "author": "Alberto López Sánchez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Earthlandto/phantomjs-polyfill-includes/issues"
+    "url": "https://github.com/Neuromobile/phantomjs-polyfill-includes/issues"
   },
-  "homepage": "https://github.com/Earthlandto/phantomjs-polyfill-includes#readme"
+  "homepage": "https://github.com/Neuromobile/phantomjs-polyfill-includes#readme"
 }
